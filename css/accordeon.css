@@ -1,0 +1,14 @@
+.soufflet, contenuSoufflet{
+    margin:0; 
+    padding:0;
+}
+.contenuSoufflet ul{
+    list-style-type:none; 
+    color:dimgray;
+}
+.titre{
+    text-align: center; 
+    margin-top: 20px; 
+    margin-bottom: 20px;
+}
+
